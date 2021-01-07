@@ -134,5 +134,5 @@ dmypy.json
 Unititled.ipynb
 distilibert_classifier.ipynb
 *.zip
-sample_submission.csv
+*.csv
 
