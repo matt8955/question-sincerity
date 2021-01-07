@@ -136,3 +136,4 @@ distilibert_classifier.ipynb
 *.zip
 *.csv
 
+model*/
