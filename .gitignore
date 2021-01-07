@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.ipynb_checkpoints
+.python-version
+.vscode/
+Unititled.ipynb
+distilibert_classifier.ipynb
+*.zip
+sample_submission.csv
+
